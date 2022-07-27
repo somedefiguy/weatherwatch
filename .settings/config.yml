@@ -1,0 +1,15 @@
+type: assignment
+showTerminals: true
+showExplorer: true
+answerUrl: https://reactjs.khcodelab.com:3033
+yourResult:
+    port: 3000
+    path: ''
+filesToOpen:
+    - /src/App.js
+terminals:
+    terminal1:
+        - name: Terminal
+        - commands:
+            - yarn start            
+            
